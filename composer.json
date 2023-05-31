@@ -18,7 +18,7 @@
         "map": [
             [
                 "pub/pos",
-                "pub/pos"
+                "../pub/pos"
             ]
         ]
     }
