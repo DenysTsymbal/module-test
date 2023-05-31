@@ -3,7 +3,7 @@
     "description": "---",
     "type": "magento2-module",
     "license": "GPL-3.0",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
@@ -18,7 +18,7 @@
         "map": [
             [
                 "pub/pos",
-                "../pub/pos"
+                "../../pub/pos"
             ]
         ]
     }
